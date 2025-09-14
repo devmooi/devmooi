@@ -1,16 +1,31 @@
-## Hi there 👋
+## Teaching Experience
 
-<!--
-**devmooi/devmooi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 2023.05 ~ 2023.11 웹 풀스택 과정 (Frontend & Backend) 1기
+- 교강사 평가 : **4.1 / 5.0**
+- 실무 연계성 : **5.0 / 5.0**
+- 대표 후기 :
+  > "강사님도 괜찮으셨고 수업에 열의를 가지고 이론과 실습을 겸하여 지도하셨다. 질문 하나하나에도 이해가 쉽게 설명해주셔서 좋았다."
+  > 
+  > "강사님이 너무 열정적이시고 프로정신으로 강의하심."
+  > 
+  > [수강 후기 전체 보기 (HRD-Net 공식)](https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20220000383091&tracseTme=1&cstmConsTme=&crseTracseSe=C0061&trainstCstmrId=500020062069&tracseReqstsCd=&focusId=)
 
-Here are some ideas to get you started:
+### 2023.11 ~ 2024.05 웹 풀스택 과정 (Frontend & Backend) 2기
+- 교강사 평가 : **4.9 / 5.0**
+- 실무 연계성 : **5.0 / 5.0**
+- 대표 후기 :
+  > "만족스러웠으며 특히 강사님이 열의를 갖고 수업해주셔서 강사님이 제일 만족스럽다"
+  >
+  > "김미경 강사님 강의 듣게 되어서 너무 유익해고 좋았습니다!"
+  >
+  > [수강 후기 전체 보기 (HRD-Net 공식)](https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20220000383232&tracseTme=1&cstmConsTme=&crseTracseSe=C0061&trainstCstmrId=500020062069&tracseReqstsCd=&focusId=)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 2024.05 ~ 2024.11 웹 풀스택 과정 (Frontend & Backend) 3기
+- 교강사 평가 : **4.9 / 5.0**
+- 실무 연계성 : **5.0 / 5.0**
+- 대표 후기 :
+  > "강사님이 열정적으로 가르쳐주셔서 실무에 관련된 지식들을 많이 배울 수 있었습니다."
+  >
+  > "비전공자로 문외한인 상태로 수강하였는데 체계적인 교육 커리큘럼 통해서 개발자로의 첫 걸음을 잘 뗀 것 같습니다."
+  >
+  > [수강 후기 전체 보기 (HRD-Net 공식)](https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20230000437708&tracseTme=1&cstmConsTme=&crseTracseSe=C0061&trainstCstmrId=500020062069&tracseReqstsCd=&focusId=)
