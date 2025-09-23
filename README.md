@@ -30,7 +30,7 @@
   >
   > [수강 후기 전체 보기 (HRD-Net 공식)](https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20230000437708&tracseTme=1&cstmConsTme=&crseTracseSe=C0061&trainstCstmrId=500020062069&tracseReqstsCd=&focusId=)
 
-<br>
+---
 
 ## Mentoring Projects
 
@@ -38,4 +38,4 @@
 - 강의 기간 : 2025.05 ~ 2025.08
 - 멘토링 기간 : 2025.09 ~ 진행중
 - 원래 내가 맡았던 4기 웹 풀스택 과정 팀 프로젝트였으며 학생들끼리 완성한 뒤 포트폴리오(PPT)와 코드 리팩토링 중심으로 멘토링
-- 결과물 : [GitHub 저장소](https://github.com/devmooi/pharma-rnd-project-erp) (추후 공개 예정)
+- 결과물 : [GitHub 저장소](https://github.com/devmooi/pharma-rnd-project-erp)
