@@ -30,7 +30,7 @@
   >
   > [수강 후기 전체 보기 (HRD-Net 공식)](https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20230000437708&tracseTme=1&cstmConsTme=&crseTracseSe=C0061&trainstCstmrId=500020062069&tracseReqstsCd=&focusId=)
 
----
+<br>
 
 ## Mentoring Projects
 
